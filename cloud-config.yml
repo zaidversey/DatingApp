@@ -1,0 +1,5 @@
+rancher:
+  network:
+    dns:
+      search:
+        - 192.168.199.4
